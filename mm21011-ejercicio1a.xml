@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="mm21011-ejercicio1a.css"?>
+<!-- ejemplo1.xml  MM21011 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="14/9/2024">
+<nombre>Ulises Ismael</nombre>
+<apellido>Mejia Morales</apellido>
+<carnet>MM21011</carnet>
+<correo>mm21011@ues.edu.sv</correo>
+<direccion>Mejicanos, San Salvador</direccion>
+</ficha>
+</fichero>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="mm21011-ejercicio2b.css"?>
+<!-- ejemplo2.xml  MM21011 -->
+<pais nombre="El Salvador">
+<moneda>Dolar Estadounidense</moneda>
+<codigoArea>+503</codigoArea>
+<idiomaPrincipal>Español</idiomaPrincipal>
+<idiomaSegundario>Ingles</idiomaSegundario>
+<area>21.040 Km2</area>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="La Libertad">
+<cabecera>Santa Tecla</cabecera>
+<habitantes>907,665</habitantes>
+<altura>30 MSNM</altura>
+</departamento>
+<departamento id="3" nombre="La Paz">
+<cabecera>Zacatecoluca</cabecera>
+<habitantes>332,000</habitantes>
+<altura>3650 MSNM</altura>
+</departamento>
+</pais>

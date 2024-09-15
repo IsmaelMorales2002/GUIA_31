@@ -1,0 +1,21 @@
+{
+  "pais": {
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "Santa Tecla",
+        "habitantes": "907,665",
+        "altura": "30 MSNM"
+      }
+    ],
+    "moneda": "Dolar Estadounidense",
+    "codigoArea": 503,
+    "idiomaPrincipal": "Español",
+    "idiomaSegundario": "Ingles",
+    "area": "21.040 Km2"
+  }
+}

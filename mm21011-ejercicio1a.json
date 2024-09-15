@@ -1,0 +1,18 @@
+{
+  "fichero": {
+    "ficha": [
+      {
+        "nombre": "Antonio",
+        "apellido": "Barbero",
+        "direccion": "Calle de Los Andes, 45"
+      },
+      {
+        "nombre": "Ulises Ismael",
+        "apellido": "Mejia Morales",
+        "carnet": "MM21011",
+        "correo": "mm21011@ues.edu.sv",
+        "direccion": "Mejicanos, San Salvador"
+      }
+    ]
+  }
+}
